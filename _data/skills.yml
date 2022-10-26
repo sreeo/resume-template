@@ -1,10 +1,9 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Technical Skills
+  description: <ul class="resume-item-list"><li>Languages --> Java, Python, Typescript, Javascript, Golang, PHP, Terraform(HCL)</li><li>Databases --> PostgreSQL, ElasticSearch, MongoDB</li><li>Additional -> AWS (RDS, EKS, EC2, SQS, SNS), Kafka, Docker, Compose</li></ul>
 
-- skill: Programming
+- skill: Articles on Programming
   description: <ul class="resume-item-list"><li><a href="https://sreeraj.dev/java-streaming-through-millions-of-records-trying-to-match-an-encrypted-field/">Java/Spring</a></li><li><a href="https://sreeraj.dev/django-bulk-save/">Python/Django</a></li></ul>
 
-- skill: DevOps
+- skill: Articles on DevOps
   description: <ul class="resume-item-list"><li><a href="https://sreeraj.dev/reducing-deploy-times/">Optimising Deployment speed</a></li><li><a href="https://sreeraj.dev/sidecar-containers/">Setting up Sidecars in Kubernetes</a></li><li><a href="https://sreeraj.dev/routing-stuff-using-traefik-nginx/">Traefik and Nginx in Production</a></li></ul>
