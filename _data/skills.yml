@@ -3,10 +3,8 @@
 - skill: Organizational leadership
   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Programming
+  description: <ul class="resume-item-list"><li><a href="https://sreeraj.dev/java-streaming-through-millions-of-records-trying-to-match-an-encrypted-field/">Java/Spring</a></li><li><a href="https://sreeraj.dev/django-bulk-save/">Python/Django</a></li></ul>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: DevOps
+  description: <ul class="resume-item-list"><li><a href="https://sreeraj.dev/reducing-deploy-times/">Optimising Deployment speed</a></li><li><a href="https://sreeraj.dev/sidecar-containers/">Setting up Sidecars in Kubernetes</a></li><li><a href="https://sreeraj.dev/routing-stuff-using-traefik-nginx/">Traefik and Nginx in Production</a></li></ul>

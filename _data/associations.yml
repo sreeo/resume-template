@@ -3,6 +3,6 @@
 
 - organization: MSINS
   role: Volunteer
-  year: 2021 &mdash;
+  year: May 2021 &mdash; Oct 2021
   # url: https://www.peta.org/
   summary: Volunteered as a backend engineer to setup a resource management dashboard for the Maharashtra Government through MSINS. I was also responsible for setting up a k8s cluster for deploying the entire stack on AWS.
