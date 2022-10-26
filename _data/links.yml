@@ -1,5 +1,9 @@
 # links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+- url: "https://github.com/docker-slim/docker-slim/pull/287"
+  description: Add a flag in docker-slim to override version of the service specified in the compose file. 
+- url: "https://github.com/docker-slim/docker-slim/pull/288"
+  description: Adds compose-svc-start-wait flag to wait before each service defined in the compose file is started.
+- url: "https://github.com/localstack/localstack/pull/6665"
+  description: Fix a tiny bug in localstack.
+- url: "https://github.com/sreeo/posthog-shopify-sync-plugin"
+  description: Build a shopify plugin to sync data into posthog. Currently integrated in the posthog application.
