@@ -3,23 +3,13 @@
 - company: Procedure Tech
   position: Principal Engineer
   duration: Feb, 2022 &mdash; Present
-  summary: <ul class="resume-item-list">
-  <li>Procedure -> <li>Mentor peers and junior engineers in the organisation. Perform code reviews. Set goals for mentees.</li>
-  <li>Setu -> Maintain a couple of whatsapp bots built for processing loan applications digitally. Make occasional infra changes.</li>
-  <li>KredX -> Build and deploy a microservice to enable invoice discounting to Production. Integrate multiple payment gateways and enable payin and payouts functionality.</li>
-  <li>Indiagold -> Bootstrap a scheduling service to assign jobs to production. </li>
-  <li>Houseworks -> Add Dicom capability and Infra to the setup. Integrate observability to identify pain points in the application.
-  Refactor Views and Cache high traffic APIs to improve performance. </li> </ul>
+  summary: <ul class="resume-item-list"><li>Procedure -> <li>Mentor peers and junior engineers in the organisation. Perform code reviews. Set goals for mentees.</li><li>Setu -> Maintain a couple of whatsapp bots built for processing loan applications digitally. Make occasional infra changes.</li><li>KredX -> Build and deploy a microservice to enable invoice discounting to Production. Integrate multiple payment gateways and enable payin and payouts functionality.</li><li>Indiagold -> Bootstrap a scheduling service to assign jobs to production. </li><li>Houseworks -> Add Dicom capability and Infra to the setup. Integrate observability to identify pain points in the application.Refactor Views and Cache high traffic APIs to improve performance. </li> </ul>
   
 # Software Engineer
 - company: Procedure Tech
   position: Software Engineer
   duration:  March, 2019 &mdash; Jan, 2022
-  summary: <ul class="resume-item-list">
-  <li>Treebo -> Build out a Restaurant POS service using DDD principles.</li>
-  <li>Houseworks -> Deploy and maintain a HIPAA compliant kubernetes infra using AWS for our inhouse EMR application.</li>
-  <li>Servify -> Build out a high performance web scraper in python to scrape and store mobile specs. Deployed this to a k8s cluster.</li>
-  <li>Turtlemint -> Create a Spring Batch engine to process renewals for insurance policies</li></ul>
+  summary: <ul class="resume-item-list"><li>Treebo -> Build out a Restaurant POS service using DDD principles.</li><li>Houseworks -> Deploy and maintain a HIPAA compliant kubernetes infra using AWS for our inhouse EMR application.</li><li>Servify -> Build out a high performance web scraper in python to scrape and store mobile specs. Deployed this to a k8s cluster.</li><li>Turtlemint -> Create a Spring Batch engine to process renewals for insurance policies</li></ul>
 
 
 # Associate
