@@ -3,7 +3,7 @@
 - company: Procedure Tech
   position: Principal Engineer
   duration: Feb, 2022 &mdash; Present
-  summary: <ul class="resume-item-list"><li><b>Procedure</b> -> Mentor peers and junior engineers in the organisation. Perform code reviews. Set goals for mentees.</li><li><b>Setu</b> -> Maintain a couple of whatsapp bots built for processing loan applications digitally. Make occasional infra changes.</li><li><b>KredX</b> -> Built and deployed a microservice to enable invoice discounting to Production. Integrate multiple payment gateways and enable payin and payouts functionality.</li><li><b>Indiagold</b> -> Bootstrap a scheduling service to assign jobs to production. </li><li><b>Houseworks</b> -> Added Dicom capability and Infra to the setup. Integrated observability to identify pain points in the application. Refactored Views and Cache high traffic APIs to improve performance. </li> </ul>
+  summary: <ul class="resume-item-list"><li><b>Procedure</b> -> Mentor peers and junior engineers in the organisation. Perform code reviews. Set goals for mentees.</li><li><b>Setu</b> -> Maintain a couple of whatsapp bots built for processing loan applications digitally. Make occasional infra changes.</li><li><b>KredX</b> -> Built and deployed a microservice to enable invoice discounting to Production. Integrate multiple payment gateways and enable payin and payouts functionality.</li><li><b>Indiagold</b> -> Bootstrap a scheduling service to assign jobs to production. </li><li><b>Houseworks</b> -> Added Dicom capability and Infra to the setup. Integrated observability to identify pain points in the application. Refactored Views and Cached high traffic APIs to improve performance. </li> </ul>
   
 # Software Engineer
 - company: Procedure Tech
